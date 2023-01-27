@@ -36,7 +36,7 @@
       <br>
     <div class="btn-group" role="group" aria-label="...">
 
-      <a href="listar.html"><button type="button" class="btn btn-default">listar Itens</button></a>
+      <a href="listar.php"><button type="button" class="btn btn-default">listar Itens</button></a>
       <a href="index.html"><button type="button" class="btn btn-default">Cadastrar</button></a>
       
     </div>
